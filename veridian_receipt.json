@@ -1,0 +1,15 @@
+{
+  "producer": "veridian",
+  "decision": "PASS",
+  "chain": [
+    "adopter",
+    "sentinel",
+    "diya",
+    "bil_intent_record",
+    "executor",
+    "mira",
+    "bil_state_record",
+    "afs",
+    "bil_commit_record"
+  ]
+}
