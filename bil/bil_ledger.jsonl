@@ -1,0 +1,2 @@
+{"decision": "ALLOW", "event_type": "TEST_CONTINUITY_RECORD", "previous_record_hash": "GENESIS", "record_hash": "b6791bba4d0d9d7096e53897f8616fb814064510db1e96d5bc870ff999d3f905", "timestamp": 1780884427}
+{"decision": "ALLOW", "event_type": "TEST_CONTINUITY_RECORD", "previous_record_hash": "b6791bba4d0d9d7096e53897f8616fb814064510db1e96d5bc870ff999d3f905", "record_hash": "9de0552d244a0ca7ba4803e1d5986a6a70c62c8309517e0f8ae20a14cdfbc29c", "timestamp": 1780884427}
