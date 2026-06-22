@@ -1,0 +1,8 @@
+{
+  "receipt_id": "r-001",
+  "agent_id": "agent-001",
+  "action": "modify_policy",
+  "state_hash": "abc123",
+  "timestamp": "2026-06-21T12:00:00Z",
+  "signature": "signed_receipt"
+}
