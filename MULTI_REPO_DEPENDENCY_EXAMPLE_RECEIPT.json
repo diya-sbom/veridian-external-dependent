@@ -1,0 +1,10 @@
+{
+  "source_repo": "veridian-core",
+  "target_repo": "veridian-dependent",
+  "dependency_name": "veridian",
+  "dependency_version": "1.0.0",
+  "verification_status": "VERIFIED",
+  "timestamp": "2026-01-01T00:00:00Z",
+  "receipt_hash": "sha256:dependency_receipt",
+  "signature": "veridian_signature"
+}
