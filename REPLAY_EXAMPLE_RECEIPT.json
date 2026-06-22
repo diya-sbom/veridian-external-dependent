@@ -1,0 +1,12 @@
+{
+  "receipt_id": "r-2026-0001",
+  "agent_id": "agent-demo-01",
+  "action_id": "action-verify-deployment",
+  "state_id": "state-0001",
+  "timestamp": "2026-01-01T00:00:00Z",
+  "policy_version": "v1.0",
+  "verification_version": "v1.0",
+  "receipt_hash": "sha256:example_receipt_hash",
+  "signature": "veridian_signature",
+  "evidence_hash": "sha256:example_evidence_hash"
+}
