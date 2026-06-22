@@ -1,0 +1,12 @@
+{
+  "receipt_id": "string",
+  "agent_id": "string",
+  "action_id": "string",
+  "state_id": "string",
+  "timestamp": "string",
+  "policy_version": "string",
+  "verification_version": "string",
+  "receipt_hash": "string",
+  "signature": "string",
+  "evidence_hash": "string"
+}
