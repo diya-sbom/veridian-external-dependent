@@ -1,0 +1,10 @@
+{
+  "operator_id": "string",
+  "operator_type": "human|vendor|saas|api|cloud|agent",
+  "action_id": "string",
+  "timestamp": "string",
+  "evidence_hash": "string",
+  "state_id": "string",
+  "receipt_hash": "string",
+  "signature": "string"
+}
