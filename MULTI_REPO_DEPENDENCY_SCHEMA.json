@@ -1,0 +1,10 @@
+{
+  "source_repo": "string",
+  "target_repo": "string",
+  "dependency_name": "string",
+  "dependency_version": "string",
+  "verification_status": "VERIFIED|UNVERIFIED",
+  "timestamp": "string",
+  "receipt_hash": "string",
+  "signature": "string"
+}
