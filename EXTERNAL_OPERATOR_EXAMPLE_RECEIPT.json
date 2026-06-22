@@ -1,0 +1,10 @@
+{
+  "operator_id": "vendor-001",
+  "operator_type": "vendor",
+  "action_id": "change-request-123",
+  "timestamp": "2026-01-01T00:00:00Z",
+  "evidence_hash": "sha256:evidence_hash",
+  "state_id": "state-001",
+  "receipt_hash": "sha256:receipt_hash",
+  "signature": "veridian_signature"
+}
