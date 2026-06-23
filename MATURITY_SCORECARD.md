@@ -1,31 +1,233 @@
 # Veridian Maturity Scorecard
 
-| Area                  | Specified | Implemented | Proven | External Validation |
-| --------------------- | --------- | ----------- | ------ | ------------------- |
-| Adopter               | ✅         | ?           | ?      | ?                   |
-| Sentinel              | ✅         | ?           | ?      | ?                   |
-| Diya                  | ✅         | ?           | ?      | ?                   |
-| MIRA                  | ✅         | ?           | ?      | ?                   |
-| AFS                   | ✅         | ?           | ?      | ?                   |
-| BIL                   | ✅         | ?           | ?      | ?                   |
-| Signed Receipts       | ✅         | ?           | ?      | ?                   |
-| Trust Root            | ✅         | ?           | ?      | ?                   |
-| Deterministic Replay  | ✅         | ?           | ?      | ?                   |
-| Runtime Interception  | ✅         | ?           | ?      | ?                   |
-| External Operators    | ✅         | ?           | ?      | ?                   |
-| Multi-Repo Dependency | ✅         | ?           | ?      | ?                   |
+## Adopter
 
-## Legend
+Specification:
+COMPLETE
 
-Specified:
-Architecture and documentation exist.
+Implementation:
+REVIEW REQUIRED
 
-Implemented:
-Working code exists.
-
-Proven:
-Demonstration or test evidence exists.
+Proof:
+REVIEW REQUIRED
 
 External Validation:
-Verified by independent reviewer.
+NOT STARTED
+
+---
+
+## Sentinel
+
+Specification:
+COMPLETE
+
+Implementation:
+REVIEW REQUIRED
+
+Proof:
+REVIEW REQUIRED
+
+External Validation:
+NOT STARTED
+
+---
+
+## Diya
+
+Specification:
+COMPLETE
+
+Implementation:
+REVIEW REQUIRED
+
+Proof:
+REVIEW REQUIRED
+
+External Validation:
+NOT STARTED
+
+---
+
+## MIRA
+
+Specification:
+COMPLETE
+
+Implementation:
+REVIEW REQUIRED
+
+Proof:
+REVIEW REQUIRED
+
+External Validation:
+NOT STARTED
+
+---
+
+## AFS
+
+Specification:
+COMPLETE
+
+Implementation:
+REVIEW REQUIRED
+
+Proof:
+REVIEW REQUIRED
+
+External Validation:
+NOT STARTED
+
+---
+
+## BIL
+
+Specification:
+COMPLETE
+
+Implementation:
+REVIEW REQUIRED
+
+Proof:
+REVIEW REQUIRED
+
+External Validation:
+NOT STARTED
+
+---
+
+## Signed Receipts
+
+Specification:
+COMPLETE
+
+Implementation:
+REVIEW REQUIRED
+
+Proof:
+REVIEW REQUIRED
+
+External Validation:
+NOT STARTED
+
+---
+
+## Trust Root
+
+Specification:
+COMPLETE
+
+Implementation:
+REVIEW REQUIRED
+
+Proof:
+REVIEW REQUIRED
+
+External Validation:
+NOT STARTED
+
+---
+
+## Deterministic Replay
+
+Specification:
+COMPLETE
+
+Implementation:
+REVIEW REQUIRED
+
+Proof:
+REVIEW REQUIRED
+
+External Validation:
+NOT STARTED
+
+---
+
+## Runtime Interception
+
+Specification:
+COMPLETE
+
+Implementation:
+REVIEW REQUIRED
+
+Proof:
+REVIEW REQUIRED
+
+External Validation:
+NOT STARTED
+
+---
+
+## External Operators
+
+Specification:
+COMPLETE
+
+Implementation:
+REVIEW REQUIRED
+
+Proof:
+REVIEW REQUIRED
+
+External Validation:
+NOT STARTED
+
+---
+
+## Multi-Repo Dependency
+
+Specification:
+COMPLETE
+
+Implementation:
+REVIEW REQUIRED
+
+Proof:
+REVIEW REQUIRED
+
+External Validation:
+NOT STARTED
+
+---
+
+# Overall Assessment
+
+Architecture:
+COMPLETE
+
+Documentation:
+COMPLETE
+
+Implementation:
+REVIEW REQUIRED
+
+Proof:
+REVIEW REQUIRED
+
+External Validation:
+NOT STARTED
+
+Adoption:
+IN PROGRESS
+
+Governance:
+IN PROGRESS
+
+---
+
+# Next Action
+
+Review every component and replace:
+
+REVIEW REQUIRED
+
+with one of:
+
+COMPLETE
+PARTIAL
+NOT IMPLEMENTED
+
+based on actual evidence.
 
