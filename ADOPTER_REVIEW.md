@@ -2,9 +2,9 @@
 
 ## Purpose
 
-Adopter is the mandatory entry point into Veridian.
+Adopter is the mandatory entry point into the Veridian ecosystem.
 
-No external request should reach the protected execution path without passing through Adopter.
+Its purpose is to ensure every external system, agent, framework, or application enters the protected execution pipeline through a controlled interface.
 
 ---
 
@@ -14,29 +14,28 @@ Status:
 
 COMPLETE
 
+Description:
+
+Adopter receives external requests and forwards them only through Sentinel.
+
+No protected workflow should bypass Adopter.
+
 ---
 
 ## Implementation
 
 Questions:
 
-- Does working code exist?
-
-Answer:
-
----
+- Does Adopter exist as working code?
+- Which repository contains it?
+- Which files implement it?
+- Does every external request enter through Adopter?
 
 Repository:
 
----
-
-Key files:
-
----
+Key Files:
 
 Evidence:
-
----
 
 Status:
 
@@ -47,14 +46,11 @@ Status:
 Questions:
 
 - Does Adopter invoke Sentinel?
-
-Answer:
-
----
+- Can external systems bypass Adopter?
+- Does failure stop execution?
+- Is fail-closed behavior enforced?
 
 Evidence:
-
----
 
 Status:
 
@@ -62,17 +58,14 @@ Status:
 
 ## Proof
 
-Questions:
+Required demonstrations:
 
-Can a request bypass Adopter?
-
-Answer:
-
----
+- Valid external request proceeds.
+- Unauthorized request is rejected.
+- Bypass attempt fails.
+- Protected pipeline remains unreachable without Adopter.
 
 Evidence:
-
----
 
 Status:
 
