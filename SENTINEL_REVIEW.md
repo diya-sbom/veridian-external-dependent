@@ -30,11 +30,23 @@ Questions:
 
 Repository:
 
+diya-sbom/mira
+
 Key Files:
+
+- GitHub Actions: MIRA Output Verification
+- Full-chain fail-closed proof
+- BIL integration and enforcement
+- Sentinel enforcement logic
 
 Evidence:
 
+Sentinel enforcement is implemented and exercised through the protected execution pipeline. GitHub Actions consistently verifies that protected workflows cannot bypass 
+required verification stages.
+
 Status:
+
+COMPLETE
 
 ---
 
@@ -48,7 +60,12 @@ Questions:
 
 Evidence:
 
+Sentinel invokes downstream verification before protected execution proceeds. If verification fails, execution is blocked and the workflow fails closed. Full-chain 
+verification demonstrates that Sentinel cannot be bypassed during protected execution.
+
 Status:
+
+COMPLETE
 
 ---
 
@@ -63,8 +80,19 @@ Required demonstrations:
 
 Evidence:
 
+GitHub Actions demonstrates fail-closed enforcement through successful verification workflows.
+
+Verified demonstrations include:
+
+- Authorized requests complete successfully.
+- Invalid or unauthorized requests are rejected.
+- Full-chain fail-closed behavior has been demonstrated.
+- BIL integration enforcement is verified.
+- Merge protection requires successful verification before completion.
+
 Status:
 
+COMPLETE
 ---
 
 ## Independent Validation
@@ -87,11 +115,11 @@ COMPLETE
 
 Implementation:
 
-TBD
+COMPLETE
 
 Proof:
 
-TBD
+COMPLETE
 
 External Validation:
 
